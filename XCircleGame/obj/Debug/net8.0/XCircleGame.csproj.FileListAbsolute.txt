@@ -1,0 +1,14 @@
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\bin\Debug\net8.0\XCircleGame.exe
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\bin\Debug\net8.0\XCircleGame.deps.json
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\bin\Debug\net8.0\XCircleGame.runtimeconfig.json
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\bin\Debug\net8.0\XCircleGame.dll
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\bin\Debug\net8.0\XCircleGame.pdb
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.AssemblyInfoInputs.cache
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.AssemblyInfo.cs
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.csproj.CoreCompileInputs.cache
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.dll
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\refint\XCircleGame.dll
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.pdb
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\XCircleGame.genruntimeconfig.cache
+C:\Users\Mor\Desktop\curss2\P11\XCircleGame\obj\Debug\net8.0\ref\XCircleGame.dll
